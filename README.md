@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently studying at Institut Teknologi Bandung 
+- 🌱 I’m currently learning Python
+- - 📫 How to reach me: siprasditama@gmail.com
