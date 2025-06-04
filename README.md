@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently studying at Institut Teknologi Bandung 
 - 🌱 I’m currently learning Python
-- - 📫 How to reach me: siprasditama@gmail.com
+- 📫 How to reach me: siprasditama@gmail.com
